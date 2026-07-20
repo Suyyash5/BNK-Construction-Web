@@ -1,5 +1,7 @@
 # BNK Construction — Premium Architecture & Portfolio Portal
 
+🚀 **Live Demo:** [bnk-construction-web.vercel.app](https://bnk-construction-web.vercel.app/)
+
 A modern, highly interactive React and Vite web application built for a premium construction and architecture firm. The platform features an elegant public showcase portfolio and a secure passcode-protected administrative dashboard for dynamic content management.
 
 ---
